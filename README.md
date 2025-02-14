@@ -19,3 +19,12 @@ After that, a check is performed to determine whether it is a hospital or a labo
 "In the hospital page, new laboratories can be added." 
 
 "And from the laboratory, a doctor can be added since the doctor may be outside the hospital."
+He also likes to edit the file. php.ini
+And change your email instead of the email registered with you here blood00bank@gmail.comقم بتديله 
+
+The translation is:
+
+# Note
+Please download the file named xampp.rar as it contains all the files organized.
+#ملاحظة 
+قم بتحميل الملف الذي اسمه xampp.rar  لانها يحتوي على جميع الملفات مرتبة 
